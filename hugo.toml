@@ -1,0 +1,7 @@
+baseURL = 'https://chariot-artefacts.github.io/'
+languageCode = 'en-us'
+title = 'Chariot Artefacts!'
+theme = "hugo-theme-relearn"
+
+[params]
+themeVariant = "zen-dark"
